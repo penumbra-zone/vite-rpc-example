@@ -10,6 +10,9 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "@connectrpc/connect": "^1.5.0",
+    "@connectrpc/connect-web": "^1.5.0",
+    "@penumbra-zone/protobuf": "^6.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
